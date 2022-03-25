@@ -1,16 +1,16 @@
-# custompainter_101
+# CustomPainter 101
 
-A new Flutter project.
+Repo relativo al talk sulle basi di CustomPainter ([Link alle slide](https://docs.google.com/presentation/d/1MgaR0Oqe9pUTnA4khUgaTNRrgQ75iisjONiHbQXwALI/edit?usp=sharing))
 
-## Getting Started
+## Applicazioni di CustomPainter mostrate:
+### Istogramma
+<img src="readme_images/hystogram.png" alt="drawing" width="300"/>
 
-This project is a starting point for a Flutter application.
+### Torta
+<img src="readme_images/pie.png" alt="drawing" width="300"/>
 
-A few resources to get you started if this is your first Flutter project:
+### Linee
+<img src="readme_images/line.png" alt="drawing" width="300"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Logo Flutter
+<img src="readme_images/flutter_logo.png" alt="drawing" width="300"/>
