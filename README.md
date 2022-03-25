@@ -1,16 +1,16 @@
 # CustomPainter 101
 
-Repo relativo al talk sulle basi di CustomPainter ([Link alle slide](https://docs.google.com/presentation/d/1MgaR0Oqe9pUTnA4khUgaTNRrgQ75iisjONiHbQXwALI/edit?usp=sharing))
+Repo related to CustomPainter 101 talk at Flutter Festival Catania ([Link alle slide](https://docs.google.com/presentation/d/1MgaR0Oqe9pUTnA4khUgaTNRrgQ75iisjONiHbQXwALI/edit?usp=sharing))
 
-## Applicazioni di CustomPainter mostrate:
-### Istogramma
+## Shown CustomPainter cases:
+### Hystogram
 <img src="readme_images/hystogram.png" alt="drawing" width="300"/>
 
-### Torta
+### Pie
 <img src="readme_images/pie.png" alt="drawing" width="300"/>
 
-### Linee
+### Line
 <img src="readme_images/line.png" alt="drawing" width="300"/>
 
-### Logo Flutter
+### Flutter Logo 
 <img src="readme_images/flutter_logo.png" alt="drawing" width="300"/>
